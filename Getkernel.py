@@ -1,6 +1,6 @@
 # --------------------------------------------------------------------------------------------------
-# EE569 Homework Assignment #1
-# Date: January 22, 2019
+# EE569 Homework Assignment #6
+# Date: April 28, 2019
 # Name: Suchismita Sahu
 # ID: 7688176370
 # email: suchisms@usc.edu
